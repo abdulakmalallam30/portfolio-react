@@ -14,6 +14,12 @@ const Footer = () => (
                 akmalalaam30@gmail.com
               </a>
             </div>
+            <div className="contact-item resume-item">
+              <i className="fas fa-file-pdf"></i>
+              <a href="/abdul_akmal_resume2.pdf" className="contact-link resume-link" target="_blank" rel="noopener noreferrer">
+                My Resume
+              </a>
+            </div>
           </div>
           
           <div className="learning-statement">
